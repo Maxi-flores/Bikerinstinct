@@ -1,0 +1,14 @@
+{
+  "platform": "nextjs",
+  "code": { "lang": "js", "scheme": "blackbox", "reactRuntime": "classic" },
+  "style": { "scheme": "css-modules" },
+  "defaultPlasmicDir": "plasmic",
+  "projects": [
+    {
+      "projectId": "j2WNNKsjX5V1nEKusoae2g",
+      "projectApiToken": "dGTj8OTkbrnIhJMKXpEgKqnM7mzhAREVxzHJKgzwOyTuwkhoqKlNj13FJlKOcSEO84IqOcWqH4OeQfu1iLw",
+      "projectName": "Bikerinstinct",
+      "version": "latest"
+    }
+  ]
+}
