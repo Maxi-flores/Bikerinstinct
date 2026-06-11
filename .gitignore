@@ -1,0 +1,9 @@
+.next
+node_modules
+devserver.log
+devserver.err.log
+npm-debug.log*
+
+.vercel
+
+*.log

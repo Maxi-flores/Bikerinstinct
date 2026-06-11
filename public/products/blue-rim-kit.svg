@@ -1,0 +1,16 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="720" fill="#ECE7E0"/>
+  <circle cx="360" cy="360" r="250" fill="#151515"/>
+  <circle cx="360" cy="360" r="212" fill="#D6D6D6"/>
+  <circle cx="360" cy="360" r="176" stroke="#5DA1FF" stroke-width="16"/>
+  <circle cx="360" cy="360" r="74" fill="#90C2FF" stroke="#5DA1FF" stroke-width="12"/>
+  <circle cx="360" cy="360" r="20" fill="#90C2FF" stroke="#5DA1FF" stroke-width="8"/>
+  <path d="M360 196L403 328L524 256" stroke="#5DA1FF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M360 196L317 328L196 256" stroke="#5DA1FF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M196 464L317 392L360 524" stroke="#5DA1FF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M524 464L403 392L360 524" stroke="#5DA1FF" stroke-width="18" stroke-linecap="round"/>
+  <path d="M190 200H530" stroke="#050505" stroke-width="28"/>
+  <path d="M168 244H552" stroke="#050505" stroke-width="22"/>
+  <path d="M180 520H540" stroke="#5DA1FF" stroke-width="24"/>
+  <text x="360" y="168" text-anchor="middle" fill="#050505" font-size="36" font-family="Arial Black, Arial, sans-serif">BIKERINSTINCT</text>
+</svg>

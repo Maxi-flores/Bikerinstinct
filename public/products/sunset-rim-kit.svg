@@ -1,0 +1,14 @@
+<svg width="720" height="720" viewBox="0 0 720 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="720" fill="#ECE7E0"/>
+  <circle cx="360" cy="360" r="250" fill="#161616"/>
+  <circle cx="360" cy="360" r="214" fill="#D9D9D9"/>
+  <circle cx="360" cy="360" r="176" stroke="#FF9D3D" stroke-width="16"/>
+  <circle cx="360" cy="360" r="74" fill="#FFCE8B" stroke="#FF9D3D" stroke-width="12"/>
+  <circle cx="360" cy="360" r="20" fill="#FFCE8B" stroke="#FF9D3D" stroke-width="8"/>
+  <path d="M360 194L406 326L528 252" stroke="#FFB357" stroke-width="18" stroke-linecap="round"/>
+  <path d="M360 194L314 326L192 252" stroke="#FFB357" stroke-width="18" stroke-linecap="round"/>
+  <path d="M190 492L288 430L242 560" stroke="#FF6A00" stroke-width="18" stroke-linecap="round"/>
+  <path d="M530 492L432 430L478 560" stroke="#FF6A00" stroke-width="18" stroke-linecap="round"/>
+  <path d="M172 528H548" stroke="#FF6A00" stroke-width="22"/>
+  <text x="360" y="168" text-anchor="middle" fill="#2D2D2D" font-size="34" font-family="Arial Black, Arial, sans-serif">SUNSET BURN</text>
+</svg>
