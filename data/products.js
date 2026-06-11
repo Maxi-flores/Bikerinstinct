@@ -1,50 +1,42 @@
 export const products = [
   {
-    slug: "blue-rim-kit",
-    name: "Blue Rim Kit",
-    price: "EUR 49.00",
+    slug: "bii-track-leather-suit",
+    name: "BII Track Leather Suit",
+    price: "EUR 399.00",
     tag: "Featured",
-    image: "/products/blue-rim-kit.svg",
-    description: "Cobalt linework and smoked contrast for aggressive street builds."
+    image: "/inventory/BII_LeatherSuits/LeatherSuite_1.png",
+    description: "A blacked-out one-piece with sharp shoulder branding and a clean race-fit silhouette."
   },
   {
-    slug: "green-rim-kit",
-    name: "Green Rim Kit",
-    price: "EUR 49.00",
-    tag: "Fresh Drop",
-    image: "/products/green-rim-kit.svg",
-    description: "Bright mint accents tuned for riders who want a lighter race vibe."
+    slug: "bii-track-leather-suit-pro",
+    name: "BII Track Leather Suit Pro",
+    price: "EUR 429.00",
+    tag: "New Drop",
+    image: "/inventory/BII_LeatherSuits/LeatherSuite_2.png",
+    description: "A heavier-duty track suit with extra panel texture, higher contrast, and harder edge."
   },
   {
-    slug: "dainese-rim-kit",
-    name: "Dainese Rim Kit",
-    price: "EUR 49.00",
-    tag: "Front + Rear",
-    image: "/products/dainese-rim-kit.svg",
-    description: "Red track detailing with sharp performance contrast around the full set."
+    slug: "bii-street-leather-suit",
+    name: "BII Street Leather Suit",
+    price: "EUR 379.00",
+    tag: "Best Seller",
+    image: "/inventory/BII_LeatherSuits/LeatherSuite_3.png",
+    description: "A darker grey build with subtle branding and a more understated everyday presence."
   },
   {
-    slug: "enduro-shine-kit",
-    name: "Shiny Enduro Rim Kit",
-    price: "EUR 49.00",
-    tag: "New Arrival",
-    image: "/products/enduro-rim-kit.svg",
-    description: "Clean dual-tone highlights designed for upright builds and tougher terrain."
+    slug: "bii-street-leather-suit-pro",
+    name: "BII Street Leather Suit Pro",
+    price: "EUR 439.00",
+    tag: "Premium",
+    image: "/inventory/BII_LeatherSuits/LeatherSuite_4.png",
+    description: "A premium grey race suit with reinforced side panels and a stronger shoulder profile."
   },
   {
-    slug: "sunset-burn-kit",
-    name: "Sunset Burn Rim Kit",
-    price: "EUR 54.00",
-    tag: "Hot Accent",
-    image: "/products/sunset-rim-kit.svg",
-    description: "Orange fade detailing inspired by brake heat, sparks, and late-night runs."
-  },
-  {
-    slug: "midnight-ice-kit",
-    name: "Midnight Ice Rim Kit",
-    price: "EUR 54.00",
-    tag: "Cold Finish",
-    image: "/products/ice-rim-kit.svg",
-    description: "Blue-white highlights for blacked-out wheels with a colder premium edge."
+    slug: "bii-endurance-leather-suit",
+    name: "BII Endurance Leather Suit",
+    price: "EUR 409.00",
+    tag: "Limited",
+    image: "/inventory/BII_LeatherSuits/LeatherSuite_5.png",
+    description: "A balanced all-rounder with the same aggressive BII look and a versatile fit."
   }
 ];
